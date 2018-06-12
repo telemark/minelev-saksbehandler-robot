@@ -71,7 +71,7 @@
     "tfk-saksbehandling-minelev-templates": "2.3.0",
     "tfk-schools-info": "2.0.0",
     "uuid": "3.2.1",
-    "winston": "2.4.2",
+    "winston": "3.0.0",
     "winston-papertrail": "1.0.5"
   }
 }
