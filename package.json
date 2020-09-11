@@ -53,7 +53,7 @@
     "axios": "0.19.2",
     "birthdate-from-id": "2.0.0",
     "capitalize": "2.0.3",
-    "document-templates": "1.4.11",
+    "document-templates": "1.4.12",
     "dotenv": "8.2.0",
     "elev-varsel-generate-document-title": "2.3.3",
     "generate-docx": "2.1.1",
