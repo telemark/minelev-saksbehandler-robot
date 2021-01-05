@@ -50,7 +50,7 @@
     "standard": "16.0.1"
   },
   "dependencies": {
-    "axios": "0.21.0",
+    "axios": "0.21.1",
     "birthdate-from-id": "2.0.2",
     "capitalize": "2.0.3",
     "document-templates": "1.4.14",
