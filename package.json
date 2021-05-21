@@ -59,7 +59,7 @@
     "birthdate-from-id": "2.0.2",
     "capitalize": "2.0.3",
     "document-templates": "1.4.14",
-    "dotenv": "9.0.2",
+    "dotenv": "10.0.0",
     "get-age": "1.0.1",
     "get-skole-aar": "2.1.0",
     "is-valid-fodselsnummer": "3.0.5",
